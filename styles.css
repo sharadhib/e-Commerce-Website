@@ -1,0 +1,64 @@
+:root {
+  --bg-color: #f4f4f4;
+  --text-color: #111;
+  --header-bg: #111;
+  --footer-bg: #111;
+  --card-bg: #fff;
+  --card-text: #333;
+  --btn-bg: #ff6f00;
+  --btn-hover: #e65c00;
+  --toggle-btn-bg: #444;
+  --toggle-btn-color: #fff;
+}
+
+body.dark-mode {
+  --bg-color: #121212;
+  --text-color: #f4f4f4;
+  --header-bg: #000;
+  --footer-bg: #000;
+  --card-bg: #1e1e1e;
+  --card-text: #ccc;
+  --btn-bg: #ffaa33;
+  --btn-hover: #ff8800;
+  --toggle-btn-bg: #f4f4f4;
+  --toggle-btn-color: #121212;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+header {
+  background-color: var(--header-bg);
+  color: var(--text-color);
+}
+
+footer {
+  background-color: var(--footer-bg);
+  color: var(--text-color);
+}
+
+.product {
+  background-color: var(--card-bg);
+  color: var(--card-text);
+}
+
+.product p {
+  color: var(--card-text);
+}
+
+.product-content button {
+  background-color: var(--btn-bg);
+  color: white;
+}
+
+.product-content button:hover {
+  background-color: var(--btn-hover);
+}
+
+#theme-toggle {
+  background-color: var(--toggle-btn-bg);
+  color: var(--toggle-btn-color);
+}
