@@ -1,2 +1,13 @@
-# e-Commerce-Website
-This is an eCommerce website with light themed background.
+# ONLINE LEARNING PLATFORM
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SHARADHI B
+
+*INTERN ID*: CT04DN1126
+
+*DOMAIN*: FULL-STACK DEVELOPER  
+
+*DURATION*: 4 WEEKS
+
+*MENTOR NAME*: NEELA SANTOSH
