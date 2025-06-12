@@ -49,4 +49,4 @@ The inclusion of a web app manifest file allows users to install the application
 The CodTech E-Commerce Progressive Web Application is a robust and versatile online shopping platform that leverages modern web technologies to deliver an exceptional user experience. With its responsive design, dynamic product catalog, and user-friendly features, this PWA is well-suited for businesses looking to establish a strong online presence. By combining the benefits of web and mobile applications, the CodTech E-Commerce PWA stands out as a practical solution for today’s digital shopping landscape, catering to the needs of a diverse audience while ensuring accessibility and performance.
 
 
-*OUTPUT*:
+*OUTPUT*:<img width="903" alt="Image" src="https://github.com/user-attachments/assets/6ff42a81-9c21-4395-8b72-802a0119ef87" />
